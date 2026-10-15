@@ -65,7 +65,7 @@ Jelajahi seluruh katalog produk dan layanan terbaik kami secara lengkap di tauta
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=webifystudio1&style=flat-square&color=00F2FE" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/webifystudio1/count.svg" alt="Profile Views" />
 </p>
 
 ---
