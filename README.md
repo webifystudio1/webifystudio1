@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION TEXT -->
 <h2 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=%F0%9F%90%B3+Solusi+%26+Produk+Digital+Berkualitas;%E2%9C%A8+Mengutamakan+Kepuasan+Pelanggan;%F0%9F%8E%AE+Pengembang+Game+Interaktif" alt="Typing Effect" />
   </a>
 </h2>
@@ -22,7 +22,7 @@
 
 Jelajahi seluruh katalog produk dan layanan terbaik kami secara lengkap di tautan berikut:
 
-<a href="https://lynk.id/alvaro_jambi">
+<a href="https://lynk.id/alvaro_jambi" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/👉_Kunjungi_Lynk.id_Webify_Studio_👈-00F2FE?style=for-the-badge&logoColor=black&logo=linktree" alt="Lynk.id Webify Studio" />
 </a>
 
@@ -64,8 +64,13 @@ Jelajahi seluruh katalog produk dan layanan terbaik kami secara lengkap di tauta
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webifystudio1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
+<br>
+
+<!-- TOMBOL LIHAT SEMUA REPOSITORIES (OPEN IN NEW TAB) -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/webifystudio1/count.svg" alt="Profile Views" />
+  <a href="https://github.com/webifystudio1?tab=repositories" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/📁_Lihat_Semua_Repositories_Kami-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Lihat Semua Repositories" />
+  </a>
 </p>
 
 ---
