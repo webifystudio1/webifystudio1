@@ -22,7 +22,7 @@
 
 Jelajahi seluruh katalog produk dan layanan terbaik kami secara lengkap di tautan berikut:
 
-<a href="https://lynk.id/webifystudio">
+<a href="https://lynk.id/alvaro_jambi">
   <img src="https://img.shields.io/badge/👉_Kunjungi_Lynk.id_Webify_Studio_👈-00F2FE?style=for-the-badge&logoColor=black&logo=linktree" alt="Lynk.id Webify Studio" />
 </a>
 
@@ -60,12 +60,12 @@ Jelajahi seluruh katalog produk dan layanan terbaik kami secara lengkap di tauta
 
 <!-- ANIMASI STATISTIK NEON -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=webifystudio1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webifystudio1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&style=flat-square&color=00F2FE" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=webifystudio1&style=flat-square&color=00F2FE" alt="Profile Views" />
 </p>
 
 ---
