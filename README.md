@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Halo! Kami Webify Studio
 
-<!--
-**webifystudio1/webifystudio1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Webify Studio mengutamakan kepuasan pelanggan dengan menghadirkan solusi dan produk digital berkualitas tinggi. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Hubungi & Kunjungi Kami
+
+Jelajahi seluruh katalog produk dan layanan terbaik kami secara lengkap di tautan berikut:
+
+👉 **[Kunjungi Lynk.id Webify Studio](https://lynk.id/username-kamu)** 👈 *(Ganti dengan link Lynk.id kamu)*
+
+---
+
+### 🛠️ Tech Stack & Keahlian
+
+- **Languages & Frontend:** HTML, CSS, JavaScript, Tailwind CSS
+- **Backend & Environment:** Node.js, Python
+- **Integrasi & Tools:** API Key Services, Git & GitHub
+
+---
+
+### ✨ Apa yang Kami Lakukan?
+
+- 🎨 **Desain Web Responsif & Modern**
+- ⚡ **Pengembangan Solusi Digital Berbasis API**
+- 🤝 **Layanan & Produk Digital Berorientasi Kepuasan Pelanggan**
+
+---
+
+*© 2026 Webify Studio. Powered by Passion & Innovation.*
