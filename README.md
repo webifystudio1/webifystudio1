@@ -8,7 +8,7 @@
 
 Jelajahi seluruh katalog produk dan layanan terbaik kami secara lengkap di tautan berikut:
 
-👉 **[Kunjungi Lynk.id Webify Studio](https://lynk.id/username-kamu)** 👈 *(Ganti dengan link Lynk.id kamu)*
+👉 **[Kunjungi Lynk.id Webify Studio](https://lynk.id/alvaro_jambi)** 👈 *(Ganti dengan link Lynk.id kamu)*
 
 ---
 
